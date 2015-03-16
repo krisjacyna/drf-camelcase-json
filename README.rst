@@ -7,8 +7,8 @@ This provides renderers and parsers to transform python style snake_case keys to
 
 .. _`Django REST Framework`: http://www.djangorestframework.com
 
-.. image:: https://travis-ci.org/krisjacyna/drf-json-keycase.svg?branch=master
-    :target: https://travis-ci.org/krisjacyna/drf-json-keycase
+.. image:: https://travis-ci.org/krisjacyna/drf-json-keyformat.svg?branch=master
+    :target: https://travis-ci.org/krisjacyna/drf-json-keyformat
     
     
 =====
