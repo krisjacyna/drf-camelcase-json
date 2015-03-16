@@ -1,5 +1,5 @@
 import unittest
-import transformations
+from drf_json_keycase import transformations
 
 class TestToCase(unittest.TestCase):
 
