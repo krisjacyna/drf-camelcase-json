@@ -39,9 +39,10 @@ def _transform_keys(data, key_transformer):
         return transformed
 
     if isinstance(data, (list, tuple)):
+        new_data = []
         for i in range(len(data)):
-            data[i] = _transform_keys(data[i], key_transformer)
-        return data
+            new_data.append(_transform_keys(data[i], key_transformer))
+        return new_data
     return data
 
 
