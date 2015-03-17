@@ -30,7 +30,7 @@ Installation
         )
     }
     
-Refer to the `DRF documentation`_. about including custom renders.
+Refer to the `DRF documentation`_ about including custom renders.
 
 =====
 Unit Tests
